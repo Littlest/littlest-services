@@ -1,0 +1,20 @@
+{
+  "name": "littlest-services",
+  "version": "0.1.0",
+  "description": "A framework for creating service-oriented Node applications in the simplest
+possible sense.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "author": "Michael Schoonmaker <michael.r.schoonmaker@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axon": "~2.0.1",
+    "discovery": "~1.0.1"
+  },
+  "devDependencies": {
+    "chai": "~1.10.0",
+    "mocha": "~2.1.0"
+  }
+}
