@@ -1,8 +1,7 @@
 {
   "name": "littlest-services",
   "version": "0.1.0",
-  "description": "A framework for creating service-oriented Node applications in the simplest
-possible sense.",
+  "description": "A framework for creating service-oriented Node applications in the simplest possible sense.",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha test/index.js"
@@ -11,7 +10,10 @@ possible sense.",
   "license": "MIT",
   "dependencies": {
     "axon": "~2.0.1",
-    "discovery": "~1.0.1"
+    "debug": "~2.1.1",
+    "discovery": "~1.0.1",
+    "ip": "~0.3.2",
+    "mi": "~1.0.0"
   },
   "devDependencies": {
     "chai": "~1.10.0",
