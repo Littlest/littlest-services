@@ -12,8 +12,8 @@
     "debug": "~2.1.1",
     "discovery": "~1.0.1",
     "ip": "~0.3.2",
-    "messaging": "Schoonology/messaging",
     "mi": "~1.0.0",
+    "onemq": "~0.1.0",
     "when": "~3.7.2"
   },
   "devDependencies": {
